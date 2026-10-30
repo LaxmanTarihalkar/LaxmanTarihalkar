@@ -1,21 +1,28 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:20B2A6,100:0D1117&height=130&section=header&text=Welcome%20To%20My%20Profile&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+</p>
+
 # 👋 Hi, I'm Laxman Tarihalkar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=20B2A6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React.js+%7C+Node.js+Developer;Building+Modern+Web+Applications;Exploring+Generative+AI;Always+Learning+Something+New" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=20B2A6&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Developer;React.js+%7C+Node.js+Specialist;Building+Scalable+Web+Apps;Exploring+Generative+AI+Solutions;Open+to+Software+Engineer+Opportunities" alt="Typing Animation" />
 </p>
 
 <h3 align="center">
-  MCA Graduate 2026 | Full-Stack Developer | India 🇮🇳
+  🚀 MCA Graduate (2026) | Full-Stack Developer | Problem Solver 🇮🇳
 </h3>
 
 <p align="center">
-  Building web applications, exploring AI, and solving problems through code.
+  <i>"Turning complex ideas into high-performance, user-centric web applications."</i>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laxmantarihalkar&label=Profile%20Views&color=20B2A6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/laxmantarihalkar?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-Explore-blue?style=for-the-badge&logo=github" alt="Repositories" />
+  <a href="https://linkedin.com/in/laxmantarihalkar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:laxmantarihalkar631@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -23,46 +30,74 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Graduate (2026), Jain College of Engineering, Belagavi.
-- 💻 Focused on **Full-Stack Web Development**.
-- ⚛️ Working with React.js, JavaScript, Node.js, and Express.js.
-- 🗄️ Learning database management with MongoDB, MySQL, and Supabase.
-- 🤖 Exploring Generative AI and AI-powered applications.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🚀 Building projects and continuously improving my development skills.
-- 🎯 Open to Software Development Internships and Fresher Opportunities.
-- 📫 Email: **[laxmantarihalkar631@gmail.com](mailto:laxmantarihalkar631@gmail.com)**
+- 🎓 **Graduating:** MCA (2026) from Jain College of Engineering, Belagavi.
+- 💻 **Core Focus:** Building end-to-end full-stack web applications with modern architectures.
+- ⚡ **What Drives Me:** Writing clean code, optimizing performance, and exploring Generative AI integration.
+- 🎯 **Current Objective:** Actively seeking **Software Development Engineering (SDE)** / **Full-Stack / Frontend / Backend Internship** roles where I can deliver immediate value.
+- 📫 **Direct Reach:** **[laxmantarihalkar631@gmail.com](mailto:laxmantarihalkar631@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Featured Projects (Recruiter Highlights)
 
-### Frontend Development
+> *Here are a few projects that showcase my technical depth and execution capabilities:*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Skills" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Project 1: Full-Stack Web App</h3>
+      <p><b>Tech Stack:</b> React.js, Node.js, Express, MongoDB, Tailwind CSS</p>
+      <ul>
+        <li>Developed a fully responsive full-stack application with robust RESTful APIs.</li>
+        <li>Implemented secure user authentication and optimized state management.</li>
+        <li>Designed clean, intuitive UI adhering to modern design principles.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/laxmantarihalkar">📂 View Repository</a> &nbsp;|&nbsp; 
+        <a href="#">🌐 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Project 2: AI-Powered / Dynamic Tool</h3>
+      <p><b>Tech Stack:</b> JavaScript, Modern APIs, Tailwind, Python</p>
+      <ul>
+        <li>Integrated modern AI capabilities and interactive DOM interfaces.</li>
+        <li>Focused on smooth user experience, lightning-fast loading speeds, and clean architecture.</li>
+        <li>Handled asynchronous data streams and error handling gracefully.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/laxmantarihalkar">📂 View Repository</a> &nbsp;|&nbsp; 
+        <a href="#">🌐 Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" alt="Backend Skills" />
-</p>
-
-### Database & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,vscode" alt="Database and Tools" />
-</p>
+*(💡 Tip: Replace the placeholder links above with your actual top 2 repository links and live deployment URLs!)*
 
 ---
 
-## ⚡ My GitHub Performance
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,java,python,mongodb,mysql,git,github,figma,vscode" alt="Skills" />
+</p>
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, Java, Python (Basics) |
+| **Databases** | MongoDB, MySQL, Supabase |
+| **Tools & Version Control** | Git, GitHub, VS Code, Figma, Postman |
+
+---
+
+## ⚡ GitHub Activity & Metrics
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=20B2A6&center=true&vCenter=true&width=550&lines=My+Coding+Journey;Code+%7C+Commit+%7C+Repeat;Building+Something+Every+Day"
-    alt="GitHub Performance Animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=20B2A6&center=true&vCenter=true&width=550&lines=Consistent+Coder;Daily+Commits+%26+Building;Solving+Problems+Through+Code"
+    alt="Coding Journey Animation"
   />
 </p>
 
@@ -71,34 +106,27 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=laxmantarihalkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20B2A6&icon_color=20B2A6&text_color=FFFFFF&include_all_commits=true&rank_icon=github"
-    width="75%"
-    alt="GitHub Performance"
+    width="48%"
+    alt="GitHub Stats"
   />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmantarihalkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20B2A6&text_color=FFFFFF&langs_count=8"
-    width="60%"
-    alt="Most Used Programming Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmantarihalkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20B2A6&text_color=FFFFFF&langs_count=6"
+    width="48%"
+    alt="Most Used Languages"
   />
 </p>
-
-### 🔥 Contribution Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=laxmantarihalkar&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2A6&fire=20B2A6&currStreakLabel=20B2A6"
-    width="75%"
-    alt="GitHub Contribution Streak"
+    width="80%"
+    alt="Streak Stats"
   />
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake Animation
 
 <p align="center">
   <picture>
@@ -120,17 +148,17 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/laxmantarihalkar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://linkedin.com/in/laxmantarihalkar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:laxmantarihalkar631@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-laxmantarihalkar631@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/laxmantarihalkar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -138,16 +166,12 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=20B2A6&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:20B2A6,100:0D1117&height=120&section=footer"
     width="100%"
     alt="Footer Animation"
   />
 </p>
 
 <p align="center">
-  <i>"Consistency, curiosity, and code — one project at a time."</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my work useful, consider giving my repositories a star!
+  <i>🌟 Thanks for visiting my profile! Feel free to reach out for opportunities or collaborations.</i>
 </p>
