@@ -60,21 +60,14 @@
 ## 📊 GitHub Analytics
 
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=laxmantarihalkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmantarihalkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=laxmantarihalkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmantarihalkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laxmantarihalkar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
