@@ -38,45 +38,6 @@
 
 ---
 
-## 💼 Featured Projects (Recruiter Highlights)
-
-> *Here are a few projects that showcase my technical depth and execution capabilities:*
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Project 1: Full-Stack Web App</h3>
-      <p><b>Tech Stack:</b> React.js, Node.js, Express, MongoDB, Tailwind CSS</p>
-      <ul>
-        <li>Developed a fully responsive full-stack application with robust RESTful APIs.</li>
-        <li>Implemented secure user authentication and optimized state management.</li>
-        <li>Designed clean, intuitive UI adhering to modern design principles.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/laxmantarihalkar">📂 View Repository</a> &nbsp;|&nbsp; 
-        <a href="#">🌐 Live Demo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Project 2: AI-Powered / Dynamic Tool</h3>
-      <p><b>Tech Stack:</b> JavaScript, Modern APIs, Tailwind, Python</p>
-      <ul>
-        <li>Integrated modern AI capabilities and interactive DOM interfaces.</li>
-        <li>Focused on smooth user experience, lightning-fast loading speeds, and clean architecture.</li>
-        <li>Handled asynchronous data streams and error handling gracefully.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/laxmantarihalkar">📂 View Repository</a> &nbsp;|&nbsp; 
-        <a href="#">🌐 Live Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-*(💡 Tip: Replace the placeholder links above with your actual top 2 repository links and live deployment URLs!)*
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
@@ -122,28 +83,6 @@
     width="80%"
     alt="Streak Stats"
   />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/laxmantarihalkar/laxmantarihalkar/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/laxmantarihalkar/laxmantarihalkar/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/laxmantarihalkar/laxmantarihalkar/output/github-snake.svg"
-      alt="GitHub Contribution Snake Animation"
-      width="100%"
-    />
-  </picture>
 </p>
 
 ---
