@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Laxman Tarihalkar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=20B2A6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React.js+%7C+Node.js+Developer;Building+Modern+Web+Applications;Exploring+Generative+AI;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=20B2A6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React.js+%7C+Node.js+Developer;Building+Modern+Web+Applications;Exploring+Generative+AI;Always+Learning+Something+New" alt="Typing Animation" />
 </p>
 
 <h3 align="center">
@@ -39,66 +39,66 @@
 
 ### Frontend Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Skills" />
 </p>
 
 ### Backend Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" alt="Backend Skills" />
 </p>
 
 ### Database & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,vscode" alt="Tools and Databases" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,vscode" alt="Database and Tools" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-<h2 align="center">📊 GitHub Analytics Dashboard</h2>
+## ⚡ My GitHub Performance
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=20B2A6&center=true&vCenter=true&width=550&lines=My+GitHub+Journey;Code+%7C+Commit+%7C+Repeat;Consistency+is+the+Key"
-    alt="GitHub Analytics Animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=20B2A6&center=true&vCenter=true&width=550&lines=My+Coding+Journey;Code+%7C+Commit+%7C+Repeat;Building+Something+Every+Day"
+    alt="GitHub Performance Animation"
   />
 </p>
 
-<!-- GitHub Stats -->
+### 📊 GitHub Statistics
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=laxmantarihalkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmantarihalkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api?username=laxmantarihalkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20B2A6&icon_color=20B2A6&text_color=FFFFFF&include_all_commits=true&rank_icon=github"
+    width="75%"
+    alt="GitHub Performance"
   />
 </p>
 
-<!-- Contribution Streak -->
+### 💻 Most Used Languages
 
 <p align="center">
   <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=laxmantarihalkar&theme=tokyonight&hide_border=true&background=0D1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmantarihalkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20B2A6&text_color=FFFFFF&langs_count=8"
+    width="60%"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=laxmantarihalkar&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2A6&fire=20B2A6&currStreakLabel=20B2A6"
+    width="75%"
     alt="GitHub Contribution Streak"
   />
 </p>
 
-<!-- Contribution Snake -->
+---
 
-<h3 align="center">🐍 Contribution Activity</h3>
+## 🐍 Contribution Activity
 
 <p align="center">
   <picture>
@@ -111,33 +111,10 @@
       srcset="https://raw.githubusercontent.com/laxmantarihalkar/laxmantarihalkar/output/github-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/laxmantarihalkar/laxmantarihalkar/output/github-snake.svg"
+      alt="GitHub Contribution Snake Animation"
       width="100%"
     />
-  </picture>
-</p>
-
-<!-- Animated Footer -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"
-    width="100%"
-    alt="Animated Divider"
-  />
-</p>
-
-<!-- ====================================================== -->
-****
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="dist/github-snake.svg" width="100%" />
   </picture>
 </p>
 
@@ -160,7 +137,11 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=20B2A6&height=100&section=footer" alt="Footer Animation" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=20B2A6&height=120&section=footer"
+    width="100%"
+    alt="Footer Animation"
+  />
 </p>
 
 <p align="center">
