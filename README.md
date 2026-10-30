@@ -60,16 +60,76 @@
 ## 📊 GitHub Analytics
 
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=laxmantarihalkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmantarihalkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=laxmantarihalkar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=20B2A6&center=true&vCenter=true&width=550&lines=My+GitHub+Journey;Code+%7C+Commit+%7C+Repeat;Consistency+is+the+Key"
+    alt="GitHub Analytics Animation"
+  />
 </p>
 
----
+<!-- GitHub Stats -->
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=laxmantarihalkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmantarihalkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- Contribution Streak -->
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=laxmantarihalkar&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<!-- Contribution Snake -->
+
+<h3 align="center">🐍 Contribution Activity</h3>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/laxmantarihalkar/laxmantarihalkar/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/laxmantarihalkar/laxmantarihalkar/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/laxmantarihalkar/laxmantarihalkar/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<!-- Animated Footer -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"
+    width="100%"
+    alt="Animated Divider"
+  />
+</p>
+
+<!-- ====================================================== -->
+****
 
 ## 🐍 Contribution Activity
 
