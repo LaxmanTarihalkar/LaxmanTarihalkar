@@ -237,17 +237,6 @@
 </p>
 
 ---
-
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LaxmanTarihalkar/LaxmanTarihalkar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-</p>
-
----
-
-<!-- CONNECT -->
 ## 🌐 Connect With Me
 
 <p align="center">
