@@ -1,55 +1,90 @@
-# GitHub Profile Banner
 
+<!-- ============================================ -->
+<!-- LAXMAN TARIHALKAR | GITHUB PROFILE README   -->
+<!-- ============================================ -->
+
+<!-- PREMIUM DARK / LIGHT BANNER -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img src="light.svg" width="100%" alt="GitHub Profile Banner">
+    <img src="light.svg" width="100%" alt="Laxman Tarihalkar - Full Stack Developer">
   </picture>
 </p>
 
+<!-- INTRODUCTION -->
 <h1 align="center">Hi 👋, I'm Laxman Tarihalkar</h1>
 
-<h3 align="center">Full-Stack Developer | MCA Graduate in 2026 | India 🇮🇳</h3>
+<h3 align="center">
+  Full-Stack Developer | MCA Graduate (2026) | India 🇮🇳
+</h3>
 
 <p align="center">
-  Building web applications, exploring AI, and solving problems through code.
+  Building modern web applications, exploring AI technologies,
+  and solving problems through code.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LaxmanTarihalkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <a href="https://github.com/LaxmanTarihalkar">
+    <img src="https://komarev.com/ghpvc/?username=LaxmanTarihalkar&label=Profile%20Views&color=20B2AA&style=flat-square" alt="Profile Views">
+  </a>
   <a href="https://github.com/LaxmanTarihalkar?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Repositories-blue?style=flat&logo=github" alt="Explore Repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-20B2AA?style=flat-square&logo=github&logoColor=white" alt="Repositories">
   </a>
 </p>
 
 ---
 
+<!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
-- 🎓 MCA student / 2026 pass-out from Jain College of Engineering, Belagavi.
+- 🎓 MCA Graduate (2026) from Jain College of Engineering, Belagavi.
 - 💻 Focused on Full-Stack Web Development.
-- ⚛️ Working with React.js, JavaScript, Node.js, Express.js, and databases.
+- ⚛️ Building applications using React.js, JavaScript, Node.js and Express.js.
+- 🗄️ Working with MongoDB, MySQL and Supabase.
 - 🤖 Exploring Generative AI and AI-powered applications.
-- 🚀 Building projects to improve my software development skills.
-- 🎯 Looking for Software Development Internships and Fresher Opportunities.
-- 📫 Email: laxmantarihalkar631@gmail.com
+- 🧩 Practicing Data Structures and Algorithms.
+- 🚀 Building practical projects to strengthen my development skills.
+- 🎯 Open to Software Developer and Full-Stack Developer opportunities.
+- 📫 Email: **laxmantarihalkar631@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+<!-- TECH STACK -->
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,supabase,java,python,git,github,vscode" alt="Technology Stack">
+### 💻 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Skills">
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,php" alt="Backend Skills">
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,git,github,vscode" alt="Database and Tools">
+</p>
+
+### 🧠 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp" alt="Programming Languages">
 </p>
 
 ---
 
+<!-- GITHUB ANALYTICS -->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LaxmanTarihalkar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanTarihalkar&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LaxmanTarihalkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanTarihalkar&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
 </p>
 
 <p align="center">
@@ -58,48 +93,153 @@
 
 ---
 
+<!-- CONTRIBUTION ACTIVITY -->
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanTarihalkar&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanTarihalkar&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity">
 </p>
 
 ---
 
+<!-- GITHUB TROPHIES -->
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LaxmanTarihalkar&theme=tokyonight&no-frame=true&no-bg=true" width="100%" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=LaxmanTarihalkar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies">
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- FEATURED PROJECTS - TWO COLUMN GRID -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🤖 VisionRAG
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Multimodal AI application for image analysis and question answering using Gemini and retrieval-augmented generation.
+<h3 align="center">🚗 RentRide</h3>
 
-**Tech:** React.js, Node.js, Gemini AI, RAG
+<p align="center">
+  A multi-vehicle rental platform for discovering, booking,
+  and managing vehicle rentals with availability tracking,
+  secure payments and interactive maps.
+</p>
 
-[View Repositories](https://github.com/LaxmanTarihalkar?tab=repositories)
+<p align="center">
+  <b>Tech Stack</b>
+</p>
 
-### 🚗 RentRide
+<p align="center">
+  React.js • Node.js • Express.js • Supabase
+</p>
 
-A multi-vehicle rental platform concept for discovering vehicles, checking availability, and managing bookings.
+<p align="center">
+  <a href="https://github.com/LaxmanTarihalkar/RentRide">
+    <img src="https://img.shields.io/badge/View%20Project-20B2AA?style=for-the-badge&logo=github&logoColor=white" alt="RentRide Repository">
+  </a>
+</p>
 
-**Tech:** React.js, Node.js, Supabase
+</td>
 
-[View Repository](https://github.com/LaxmanTarihalkar/RentRide)
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Text-to-Image Generation</h3>
+
+<p align="center">
+  An AI-powered platform that transforms text prompts
+  into creative images using AI models and modern
+  web technologies.
+</p>
+
+<p align="center">
+  <b>Tech Stack</b>
+</p>
+
+<p align="center">
+  JavaScript • React.js • Node.js • AI APIs
+</p>
+
+<p align="center">
+  <a href="https://github.com/LaxmanTarihalkar/Text-to-Image-Generation">
+    <img src="https://img.shields.io/badge/View%20Project-20B2AA?style=for-the-badge&logo=github&logoColor=white" alt="Text to Image Repository">
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Personal Portfolio</h3>
+
+<p align="center">
+  A personal portfolio website showcasing my technical
+  skills, projects, and development journey.
+</p>
+
+<p align="center">
+  <b>Tech Stack</b>
+</p>
+
+<p align="center">
+  React.js • Tailwind CSS • JavaScript
+</p>
+
+<p align="center">
+  <a href="https://github.com/LaxmanTarihalkar/laxman-portfolio">
+    <img src="https://img.shields.io/badge/View%20Project-20B2AA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repository">
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📚 DSA Notes & Solutions</h3>
+
+<p align="center">
+  A collection of Data Structures and Algorithms notes,
+  concepts, coding examples, and problem solutions.
+</p>
+
+<p align="center">
+  <b>Focus</b>
+</p>
+
+<p align="center">
+  Java • DSA • Problem Solving
+</p>
+
+<p align="center">
+  <a href="https://github.com/LaxmanTarihalkar/dsa-notes-and-solutions">
+    <img src="https://img.shields.io/badge/View%20Project-20B2AA?style=for-the-badge&logo=github&logoColor=white" alt="DSA Repository">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/LaxmanTarihalkar?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github" alt="Explore All Projects">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories">
   </a>
 </p>
 
 ---
 
+<!-- CONTRIBUTION SNAKE -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaxmanTarihalkar/LaxmanTarihalkar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
+
+---
+
+<!-- CONNECT -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -109,9 +249,12 @@ A multi-vehicle rental platform concept for discovering vehicles, checking avail
   <a href="mailto:laxmantarihalkar631@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <!-- Add your LinkedIn profile URL here -->
+  <!-- Add your actual LinkedIn URL here -->
 </p>
 
+---
+
+<!-- FOOTER -->
 <p align="center">
   <i>"Consistency, curiosity, and code — one project at a time."</i>
 </p>
