@@ -100,16 +100,10 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/LaxmanTarihalkar/LaxmanTarihalkar/output/github-contribution-grid-snake.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanTarihalkar&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"
     width="100%"
-    alt="Laxman GitHub Contribution Activity"
+    alt="GitHub Contribution Activity Graph"
   />
-</p>
-
-<p align="center">
-  <a href="https://github.com/LaxmanTarihalkar">
-    View Full GitHub Contribution History
-  </a>
 </p>
 
 
