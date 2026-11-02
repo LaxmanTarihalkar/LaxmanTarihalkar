@@ -80,29 +80,62 @@
 ---
 
 <!-- GITHUB ANALYTICS -->
-## 📊 GitHub Analytics
+
+<!-- ========================================== -->
+<!-- GITHUB ANALYTICS -->
+<!-- ========================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LaxmanTarihalkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanTarihalkar&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LaxmanTarihalkar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=LaxmanTarihalkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanTarihalkar&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
 
-<!-- CONTRIBUTION ACTIVITY -->
+<!-- ========================================== -->
+<!-- CONTRIBUTION STREAK -->
+<!-- ========================================== -->
 
-## 📈 Contribution Activity
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanTarihalkar&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
+    width="70%"
+    src="https://streak-stats.demolab.com?user=LaxmanTarihalkar&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
+</p>
+
+---
+
+<!-- ========================================== -->
+<!-- CONTRIBUTION ACTIVITY -->
+<!-- ========================================== -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/LaxmanTarihalkar/LaxmanTarihalkar/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Activity Snake"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/LaxmanTarihalkar">
+    View Full Contribution History →
+  </a>
 </p>
 
 
