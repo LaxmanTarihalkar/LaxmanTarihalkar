@@ -95,7 +95,6 @@
 
 <!-- CONTRIBUTION ACTIVITY -->
 
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -105,6 +104,7 @@
     alt="GitHub Contribution Activity Graph"
   />
 </p>
+
 
 
 
