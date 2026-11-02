@@ -77,30 +77,11 @@
   <img src="https://skillicons.dev/icons?i=python,cpp" alt="Programming Languages">
 </p>
 
----
-
-<!-- GITHUB ANALYTICS -->
-
 <!-- ========================================== -->
 <!-- GITHUB ANALYTICS -->
 <!-- ========================================== -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=LaxmanTarihalkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanTarihalkar&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
----
 
 <!-- ========================================== -->
 <!-- CONTRIBUTION STREAK -->
@@ -137,18 +118,6 @@
     View Full Contribution History →
   </a>
 </p>
-
-
-
-
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LaxmanTarihalkar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies">
-</p>
-
----
 
 <!-- FEATURED PROJECTS - TWO COLUMN GRID -->
 <h2 align="center">🚀 Featured Projects</h2>
