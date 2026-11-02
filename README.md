@@ -94,13 +94,20 @@
 ---
 
 <!-- CONTRIBUTION ACTIVITY -->
-## 📈 Contribution Activity
+
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanTarihalkar&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity">
+  <a href="https://github.com/LaxmanTarihalkar">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanTarihalkar&theme=tokyo-night&hide_border=true&area=true"
+      width="100%"
+      alt="Laxman GitHub Contribution Activity Graph"
+    />
+  </a>
 </p>
 
----
 
 <!-- GITHUB TROPHIES -->
 ## 🏆 GitHub Achievements
