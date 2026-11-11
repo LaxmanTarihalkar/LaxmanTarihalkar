@@ -81,7 +81,7 @@
 <!-- GITHUB ANALYTICS -->
 <!-- ========================================== -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2>📊 GitHub Analytics</h2>
 
 <!-- ========================================== -->
 <!-- CONTRIBUTION STREAK -->
